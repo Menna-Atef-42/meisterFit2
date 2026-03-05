@@ -4,7 +4,6 @@
 # Except .gitignore and lib folder
 !.gitignore
 !lib/
-lib/l10n/
 
 
 
